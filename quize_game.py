@@ -1,9 +1,6 @@
-""" <<<<<<< HEAD
 # Comment added by Mitesh Patel on Window
-=======
 # Added comment on Ubuntu by Mitesh Patel
 
-# >>>>>>> main """
 print("Welcome to my compute quize!")
 
 playing = input('Do you wanto to play? ')
