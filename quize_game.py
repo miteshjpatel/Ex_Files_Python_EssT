@@ -1,3 +1,4 @@
+# Comment added by Mitesh Patel on Window
 print("Welcome to my compute quize!")
 
 playing = input('Do you wanto to play? ')
