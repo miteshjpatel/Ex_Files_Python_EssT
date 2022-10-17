@@ -1,5 +1,9 @@
+<<<<<<< HEAD
+# Comment added by Mitesh Patel on Window
+=======
 # Added comment on Ubuntu by Mitesh Patel
 
+>>>>>>> main
 print("Welcome to my compute quize!")
 
 playing = input('Do you wanto to play? ')
@@ -13,7 +17,7 @@ score = 0
 
 answer = input('What does CPU stand for? ')
 
-if answer == "central processing unit":
+if answer.lower() == "central processing unit":
     print('Correct!')
     score += 1
 else:
@@ -22,7 +26,7 @@ else:
 
 answer = input('What does GPU stand for? ')
 
-if answer == "graphics processing unit":
+if answer.lower() == "graphics processing unit":
     print('Correct!')
     score += 1
 else:
@@ -30,7 +34,7 @@ else:
 
 answer = input('What does RAM stand for? ')
 
-if answer == "random access memory":
+if answer.lower() == "random access memory":
     print('Correct!')
     score += 1
 else:
@@ -38,7 +42,7 @@ else:
 
 answer = input('What does PSU stand for? ')
 
-if answer == "power supply unit":
+if answer.lower() == "power supply unit":
     print('Correct!')
     score += 1
 else:
